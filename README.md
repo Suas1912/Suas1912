@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sakib Hossen 👋
 
-<!--
-**Suas1912/Suas1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Flutter Developer in Progress | Backend & REST API Learner
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student who enjoys learning by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Currently Learning
+
+- 📱 Flutter & Dart
+- 🌐 REST API Development
+- 🟢 Node.js & Express.js
+- 🗄️ MySQL
+- ☁️ Supabase
+- 🔐 Authentication & JWT
+
